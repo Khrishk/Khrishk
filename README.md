@@ -3,12 +3,12 @@
 
 ---
 
-### 🚀 About Me  
+## 🚀 About Me  
 I'm a **Business and Computer Science (BUCS) student at the University of British Columbia**, passionate about building **tech-driven, data-powered** solutions. I enjoy working at the intersection of **software, data, and product strategy**, with experience spanning **software development, product management, and analytics**.  
 
 ---
 
-### 🛠️ Tech Stack & Skills  
+## 🛠️ Tech Stack & Skills  
 
 <p align="center">
   🚀 Technologies I use for Software Development, Data, and Product Management
@@ -70,7 +70,7 @@ I'm a **Business and Computer Science (BUCS) student at the University of Britis
 
 ---
 
-### 🔥 Projects & Experience  
+## 🔥 Projects & Experience  
 
 ### 💡 [Opinio](https://opinio.cc) — *Co-Founder & Technical Product Manager*  
 
@@ -113,16 +113,16 @@ I'm a **Business and Computer Science (BUCS) student at the University of Britis
 
 ---
 
-### 🏆 Hackathons & Datathons  
+## 🏆 Hackathons & Datathons  
 
 🚀 **Placed in Top Spots** in Multiple Competitive Hackathons & Datathons  
 
-#### 🔹 **UBC BizTech HelloHacks 2024** — *Finalist*  
+### 🔹 **UBC BizTech HelloHacks 2024** — *Finalist*  
 **Project:** Fit.me — An **AI-powered shopping platform** that curates the perfect outfit based on user-described events or daily needs.  
 -   **Built with:** Python, OpenAI GPT API, RapidAPI, Web Scraping
 -   **Impact:** Created a seamless shopping experience using **AI-generated recommendations**  
 
-#### 🔹 **UBC Bolt First Byte Datathon 2023** — *"Most Creative Solution" Award*  
+### 🔹 **UBC Bolt First Byte Datathon 2023** — *"Most Creative Solution" Award*  
 **Project:** Customer Churn Prediction & Business Insights  
 - **Optimized churn prediction models**, reducing error rates by **25%** using advanced **SQL & Tableau** analytics
 - **Led a cross-functional team** to develop & present data-driven solutions under tight deadlines
@@ -131,7 +131,7 @@ I'm a **Business and Computer Science (BUCS) student at the University of Britis
 
 ---
 
-### 📬 Get in Touch  
+## 📬 Get in Touch  
 💼 **LinkedIn:** [Khrish Kewalramani](https://linkedin.com/in/khrishkewalramani)  
 🌐 **Github:** (You're already here!)
 📧 **Email:** [lkkhrish@gmail.com]  
