@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hey, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hey, I'm Khrish!</h1>
 <h3 align="center">Business & Computer Science @ UBC | Tech, Data & Product Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me  
-I'm a **Business and Computer Science (BUCS) student at the University of British Columbia**, passionate about building **tech-driven, data-powered** solutions. I enjoy working at the intersection of **software, data, and product strategy**, with experience spanning **software development, analytics, and product management**.  
+I'm a **Business and Computer Science (BUCS) student at the University of British Columbia**, passionate about building **tech-driven, data-powered** solutions. I enjoy working at the intersection of **software, data, and product strategy**, with experience spanning **software development, product management, and analytics**.  
 
 🌎 Exploring **tech, fintech, AI, and startups**  
-⚡ Hackathon & Datathon finalist with multiple top placements  
+⚡ Hackathon & Datathon finalist with multiple top placements
 💡 Passionate about **creating real-world solutions with code**  
 
 ---
