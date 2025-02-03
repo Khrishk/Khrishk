@@ -6,10 +6,6 @@
 ### 🚀 About Me  
 I'm a **Business and Computer Science (BUCS) student at the University of British Columbia**, passionate about building **tech-driven, data-powered** solutions. I enjoy working at the intersection of **software, data, and product strategy**, with experience spanning **software development, product management, and analytics**.  
 
-🌎 Exploring **tech, fintech, AI, and startups**  
-⚡ Hackathon & Datathon finalist with multiple top placements
-💡 Passionate about **creating real-world solutions with code**  
-
 ---
 
 ### 🛠️ Tech Stack & Skills  
@@ -71,6 +67,7 @@ I'm a **Business and Computer Science (BUCS) student at the University of Britis
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🔥 Projects & Experience  
@@ -79,7 +76,7 @@ I'm a **Business and Computer Science (BUCS) student at the University of Britis
 
 <p align="center">
   <a href="https://opinio.cc">
-    <img src="https://opinio.cc/path-to-your-image.jpg" alt="Opinio Screenshot" width="80%"/>
+    <img src="Opinio LinkedIn Banner.png" alt="Opinio Screenshot" width="100%"/>
   </a>
 </p>
 
@@ -95,19 +92,49 @@ I'm a **Business and Computer Science (BUCS) student at the University of Britis
 
 
 
-#### **🎶 Request** *(Founder & Developer)*  
-A **song request platform** for event DJs, integrating **real-time payments and requests**.  
+### 🎶 [Request](https://request-app.me) — *Co-Founder & Developer*  
 
-#### **🏆 Hackathons & Datathons**  
-- **Placed in top spots** in multiple competitions  
-- Focus on **fintech, AI, and data-driven applications**  
+<p align="center">
+  <a href="https://request-app.me">
+    <img src="Request Banner.png" alt="Request Screenshot" width="100%"/>
+  </a>
+</p>
+
+**Request** is a **real-time song request platform** designed for **event DJs**, allowing audiences to request songs seamlessly while enabling DJs to **monetize requests**.
+
+🔹 **What Request Offers**  
+✅ **Seamless mobile UI** designed for quick song requests  
+✅ **Integrates with Spotify & Stripe API** for easy payments & music selection  
+✅ **Gives DJs full control**—accept, reject, or queue requests instantly  
+✅ **Analytics dashboard** to track song trends and audience engagement  
+✅ **Currently partnered with 15+ DJs across Vancouver**  
+
+🌎 **Learn More:** [Request Website](https://request-app.me) 🚀  
+
+---
+
+### 🏆 Hackathons & Datathons  
+
+🚀 **Placed in Top Spots** in Multiple Competitive Hackathons & Datathons  
+
+#### 🔹 **UBC BizTech HelloHacks 2024** — *Finalist*  
+**Project:** Fit.me — An **AI-powered shopping platform** that curates the perfect outfit based on user-described events or daily needs.  
+-   **Built with:** Python, OpenAI GPT API, RapidAPI, Web Scraping
+-   **Impact:** Created a seamless shopping experience using **AI-generated recommendations**  
+
+#### 🔹 **UBC Bolt First Byte Datathon 2023** — *"Most Creative Solution" Award*  
+**Project:** Customer Churn Prediction & Business Insights  
+- **Optimized churn prediction models**, reducing error rates by **25%** using advanced **SQL & Tableau** analytics
+- **Led a cross-functional team** to develop & present data-driven solutions under tight deadlines
+- **Implemented agile methodologies** for rapid iteration & improvement
+- **Coached team members** on effective communication, securing the **"Most Creative Solution" award**  
 
 ---
 
 ### 📬 Get in Touch  
-💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-🌐 **Portfolio:** [Your Website](https://yourwebsite.com)  
-📧 **Email:** [Your Email]  
+💼 **LinkedIn:** [Khrish Kewalramani](https://linkedin.com/in/khrishkewalramani)  
+🌐 **Github:** (You're already here!)
+📧 **Email:** [lkkhrish@gmail.com]  
 
 ---
 
